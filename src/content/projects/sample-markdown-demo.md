@@ -29,6 +29,8 @@ eleventyNavigation:
 
 Here is a paragraph of text. To style text in _italic_, use _one_ pair of _underscores_ or _asterisks_ around it. To style text in **bold**, use **two** pairs of **underscores** or **asterisks** around it. To style text in **_bold and italic_**, use **_three_** pairs of **_underscores_** or **_asterisks_** around it.
 
+![A Cat](/img/cat.jpeg)
+
 ![Markdown logo](/img/sample/markdown-demo.jpg)
 
 ## Paragraphs
